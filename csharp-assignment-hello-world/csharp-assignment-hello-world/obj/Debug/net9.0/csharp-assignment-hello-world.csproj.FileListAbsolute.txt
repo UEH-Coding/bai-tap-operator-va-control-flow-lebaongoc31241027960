@@ -13,3 +13,18 @@
 /Users/huynguyen/Documents/GitHub/csharp-assignment-hello-world/csharp-assignment-hello-world/csharp-assignment-hello-world/obj/Debug/net9.0/csharp-assignment-hello-world.pdb
 /Users/huynguyen/Documents/GitHub/csharp-assignment-hello-world/csharp-assignment-hello-world/csharp-assignment-hello-world/obj/Debug/net9.0/csharp-assignment-hello-world.genruntimeconfig.cache
 /Users/huynguyen/Documents/GitHub/csharp-assignment-hello-world/csharp-assignment-hello-world/csharp-assignment-hello-world/obj/Debug/net9.0/ref/csharp-assignment-hello-world.dll
+c:\Users\Bao Ngoc\Documents\GitHub\bai-tap-operator-va-control-flow-lebaongoc31241027960\csharp-assignment-hello-world\csharp-assignment-hello-world\bin\Debug\net9.0\csharp-assignment-hello-world.exe
+c:\Users\Bao Ngoc\Documents\GitHub\bai-tap-operator-va-control-flow-lebaongoc31241027960\csharp-assignment-hello-world\csharp-assignment-hello-world\bin\Debug\net9.0\csharp-assignment-hello-world.deps.json
+c:\Users\Bao Ngoc\Documents\GitHub\bai-tap-operator-va-control-flow-lebaongoc31241027960\csharp-assignment-hello-world\csharp-assignment-hello-world\bin\Debug\net9.0\csharp-assignment-hello-world.runtimeconfig.json
+c:\Users\Bao Ngoc\Documents\GitHub\bai-tap-operator-va-control-flow-lebaongoc31241027960\csharp-assignment-hello-world\csharp-assignment-hello-world\bin\Debug\net9.0\csharp-assignment-hello-world.dll
+c:\Users\Bao Ngoc\Documents\GitHub\bai-tap-operator-va-control-flow-lebaongoc31241027960\csharp-assignment-hello-world\csharp-assignment-hello-world\bin\Debug\net9.0\csharp-assignment-hello-world.pdb
+c:\Users\Bao Ngoc\Documents\GitHub\bai-tap-operator-va-control-flow-lebaongoc31241027960\csharp-assignment-hello-world\csharp-assignment-hello-world\obj\Debug\net9.0\csharp-assignment-hello-world.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Bao Ngoc\Documents\GitHub\bai-tap-operator-va-control-flow-lebaongoc31241027960\csharp-assignment-hello-world\csharp-assignment-hello-world\obj\Debug\net9.0\csharp-assignment-hello-world.AssemblyInfoInputs.cache
+c:\Users\Bao Ngoc\Documents\GitHub\bai-tap-operator-va-control-flow-lebaongoc31241027960\csharp-assignment-hello-world\csharp-assignment-hello-world\obj\Debug\net9.0\csharp-assignment-hello-world.AssemblyInfo.cs
+c:\Users\Bao Ngoc\Documents\GitHub\bai-tap-operator-va-control-flow-lebaongoc31241027960\csharp-assignment-hello-world\csharp-assignment-hello-world\obj\Debug\net9.0\csharp-assignment-hello-world.csproj.CoreCompileInputs.cache
+c:\Users\Bao Ngoc\Documents\GitHub\bai-tap-operator-va-control-flow-lebaongoc31241027960\csharp-assignment-hello-world\csharp-assignment-hello-world\obj\Debug\net9.0\csharp-assignment-hello-world.sourcelink.json
+c:\Users\Bao Ngoc\Documents\GitHub\bai-tap-operator-va-control-flow-lebaongoc31241027960\csharp-assignment-hello-world\csharp-assignment-hello-world\obj\Debug\net9.0\csharp-assignment-hello-world.dll
+c:\Users\Bao Ngoc\Documents\GitHub\bai-tap-operator-va-control-flow-lebaongoc31241027960\csharp-assignment-hello-world\csharp-assignment-hello-world\obj\Debug\net9.0\refint\csharp-assignment-hello-world.dll
+c:\Users\Bao Ngoc\Documents\GitHub\bai-tap-operator-va-control-flow-lebaongoc31241027960\csharp-assignment-hello-world\csharp-assignment-hello-world\obj\Debug\net9.0\csharp-assignment-hello-world.pdb
+c:\Users\Bao Ngoc\Documents\GitHub\bai-tap-operator-va-control-flow-lebaongoc31241027960\csharp-assignment-hello-world\csharp-assignment-hello-world\obj\Debug\net9.0\csharp-assignment-hello-world.genruntimeconfig.cache
+c:\Users\Bao Ngoc\Documents\GitHub\bai-tap-operator-va-control-flow-lebaongoc31241027960\csharp-assignment-hello-world\csharp-assignment-hello-world\obj\Debug\net9.0\ref\csharp-assignment-hello-world.dll
